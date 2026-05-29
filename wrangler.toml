@@ -2,7 +2,7 @@
 # ImmoGest — Configuration Cloudflare Workers
 # ═══════════════════════════════════════════════════════════════
 
-name = "immogest-notif-cron"
+name = "immogest1"
 main = "workers/notif-cron.js"
 compatibility_date = "2024-09-23"
 
